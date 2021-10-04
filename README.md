@@ -18,3 +18,4 @@
 
 
 <p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=arunkaash&show_icons=true&locale=en" alt="arunkaash" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkaash&show_icons=true&locale=en&layout=compact" alt="arunkaash" /></p>

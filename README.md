@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">A Full-Stack developer who likes to explore new technologies, problem-solving, build projects 👩‍💻, and have a keen interest in web development. I often write blogs to share my learnings with the developer community ✍️.</h3>
-<img align="right" alt="Coding" width="400"  style= "border-radius:50%" src="https://i.ibb.co/L1rqGXN/Code-typing-1.gif" >
+<img align="right" alt="Coding" width="400" height="400" style= "border-radius:50%" src="https://i.ibb.co/L1rqGXN/Code-typing-1.gif" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

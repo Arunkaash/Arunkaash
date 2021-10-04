@@ -17,4 +17,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkaash&show_icons=true&locale=en" alt="arunkaash" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=arunkaash&show_icons=true&locale=en" alt="arunkaash" /></p>
